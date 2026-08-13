@@ -1,0 +1,6 @@
+{
+  "subset": "multi_view_reasoning",
+  "tool_path": "/multiview_reasoning/flow_data/imgs/",
+  "template": "Image 1\n<image>\nImage 2\n<image>\nHere is the optical flow map to assist you\n<image>\n"
+}
+

@@ -1,0 +1,5 @@
+{
+  "subset": "visual_correspondence",
+  "correspondences_path": "/visual_correspondence/correspondences_clustered_val.jsonl",
+  "point_annotations_path": "/Visual_Correspondence_val_annotations.jsonl"
+}

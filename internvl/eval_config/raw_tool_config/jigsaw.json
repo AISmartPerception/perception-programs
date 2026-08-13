@@ -1,0 +1,6 @@
+{
+  "subset": "jigsaw",
+  "tool_path": "/jigsaw/expert_outputs_for_pp/tool_outputs/",
+  "template": "Main image with missing corner\n<image>\nCandidate A\n<image>\nCandidate B\n<image>\nStitched preview with candidate A\n<image>\nStitched preview with candidate B\n<image>\n"
+}
+

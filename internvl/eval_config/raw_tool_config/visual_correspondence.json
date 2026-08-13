@@ -1,0 +1,6 @@
+{
+  "subset": "visual_correspondence",
+  "raw_tool_path": "/visual_correspondence/images_clustered",
+  "template": "Image 1\n<image>\nImage 2\n<image>\nHere is a map of correspondences to assist you\n<image>\n"
+}
+

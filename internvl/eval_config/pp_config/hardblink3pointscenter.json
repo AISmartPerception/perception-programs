@@ -1,0 +1,6 @@
+{
+  "subset": "hardblink3pointscenter",
+  "jsonl_path": "/hardblink/blink3pointscenter/blink3pointscenter_with_pp.jsonl",
+  "image_dir": "/hardblink/blink3pointscenter/images",
+  "note": "PP strings are preprocessed and embedded in the JSONL file"
+}

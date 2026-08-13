@@ -1,0 +1,8 @@
+{
+  "subset": "object_localization",
+  "annotations_path": "/Object_Localization_val_annotations.jsonl",
+  "detections_path": "obj_localization/detections.jsonl",
+  "visualizations_path": "obj_localization/visualizations/",
+  "template": "Target image\n<image>\nDetections\n<image>\n"
+}
+

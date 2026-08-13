@@ -1,0 +1,5 @@
+{
+  "subset": "hardblink5pointscenter",
+  "jsonl_path": "/hardblink/blink5pointscenter/blink5pointscenter.jsonl",
+  "image_dir": "/hardblink/blink5pointscenter/images"
+}

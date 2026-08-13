@@ -1,0 +1,6 @@
+{
+  "subset": "semantic_correspondence",
+  "tool_path": "/semantic_correspondence/tool_out_imgs/",
+  "template": "Source\n<image>\nTarget\n<image>\nSemantic similarity map\n<image>\n"
+}
+

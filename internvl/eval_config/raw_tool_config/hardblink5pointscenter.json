@@ -1,0 +1,8 @@
+{
+  "subset": "hardblink5pointscenter",
+  "raw_tool_path": "/hardblink/blink5pointscenter/depth",
+  "template": "Target image\n<image>\nDepth map\n<image>\n",
+  "jsonl_path": "/hardblink/blink5pointscenter/blink5pointscenter.jsonl",
+  "image_dir": "/hardblink/blink5pointscenter/images"
+}
+
