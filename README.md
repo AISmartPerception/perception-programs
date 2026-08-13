@@ -47,7 +47,7 @@ relative depth, jigsaw, semantic correspondence, object localization.
 
 ## Beyond BLINK
 
-PerceptionProgram can be similarly extended to other tasks by adding the task specification (what each value in the P^2 would correspond to) to `generate_perception_program.py` and calling the function wherever a tool call is required, similar to how it is done for `gpt`, `gemini`, `qwen` or `intervl` models.
+PerceptionProgram can be similarly extended to other tasks by adding the task specification (what each value in the P^2 would correspond to) to `generate_perception_program.py` and calling the function wherever a tool call is required, similar to how it is done for `gpt`, `gemini`, `qwen3vl` or `internvl` models.
 
 ## Citation
 
